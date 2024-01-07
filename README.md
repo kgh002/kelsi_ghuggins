@@ -47,8 +47,3 @@ Contact Me
 🐦 Twitter: Your Twitter Profile
 Feel free to explore my projects and reach out to me for collaborations, feedback, or just a friendly chat! 🚀
 
-Customize the placeholders ([Your Name], [Your Role/Profession], etc.) with your specific details and remove the square brackets as you fill in the information. Also, ensure to include relevant links to your projects, blog, and social media profiles.
-
-This introduction provides a brief overview of your portfolio, introduces yourself, showcases sections within your portfolio, and offers contact information for potential collaborators or interested parties.
-
-Remember, a README should be engaging, informative, and reflect your personality and professional identity. Feel free to personalize it further to align with your style and goals.
