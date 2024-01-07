@@ -2,8 +2,7 @@
 
 
 **Kelsi Gilleylen-Huggins's Portfolio**   
-                                                                   <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/6f21d559-1b05-4ba6-8107-e448daedc3e7]" align="right" width=20% height=50%>
-
+                                                                   <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/75b28825-8ea6-477c-a181-668a60855d19" align="right" width=20% height=50%>
 
 
                                                                                 
