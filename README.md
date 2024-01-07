@@ -1,6 +1,8 @@
 # kelsi_ghuggins
 
 Kelsi Gilleylen-Huggins's Portfolio
+
+
 Welcome to my portfolio! 👋
 
 Introduction
