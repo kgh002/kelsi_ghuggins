@@ -11,6 +11,7 @@ Welcome to my portfolio! 👋
 
 
 Introduction
+
 I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statistical analyst with a Masters in Statistics with 6+ years of experience in Data Analytics, Project Management, Program Management, and Business Intelligence related consulting projects. Skilled in SQL, Python, R, SAS, Tableau, Power BI, and SPSS, with a strong ability to discover business needs and develop effective solutions to drive process efficiency and accuracy. 
 
 
