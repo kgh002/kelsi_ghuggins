@@ -23,10 +23,10 @@ About Me
 
 💼 [Current job or educational status]
 
-<p align="center">Portfolio Sections</p>
+<p align="center">Portfolio Projects</p>
 
 
-Projects
+
 
 Browse through my diverse range of projects, including:
 
