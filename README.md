@@ -1,7 +1,7 @@
  <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/480ffb55-982f-4910-a457-784f2d28357e" align="center">
 
 
-**Kelsi Gilleylen-Huggins's Portfolio**   
+<p align="left">**Kelsi Gilleylen-Huggins's Portfolio**</p> 
                                                                    <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/75b28825-8ea6-477c-a181-668a60855d19" align="left" width=40% height=50%>
 
 
