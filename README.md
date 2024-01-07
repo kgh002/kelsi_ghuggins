@@ -23,7 +23,7 @@ About Me
 
 💼 [Current job or educational status]
 
-Portfolio Sections
+<p align="right"></p>Portfolio Sections
 
 
 Projects
