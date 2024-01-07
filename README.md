@@ -18,12 +18,19 @@ About Me
 💼 [Current job or educational status]
 
 Portfolio Sections
+
+
 Projects
+
 Browse through my diverse range of projects, including:
 
 Project 1 Name
+
 Project 2 Name
+
 Project 3 Name
+
+
 Blog
 I occasionally write about [Your Topics of Interest] on my blog.
 
