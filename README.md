@@ -1,10 +1,10 @@
 # kelsi_ghuggins
 
-[Your Name]'s Portfolio
+Kelsi Gilleylen-Huggins's Portfolio
 Welcome to my portfolio! 👋
 
 Introduction
-I am [Your Name], a [Your Role/Profession] passionate about [Your Interests]. This repository serves as a showcase of my work, projects, and experiences in the [Your Field/Industry]. Through this portfolio, I aim to highlight my skills, share my journey, and demonstrate my expertise in [Specific Skills/Technologies].
+I am Kelsi Gilleylen-Huggins, a [Your Role/Profession] passionate about [Your Interests]. This portfolio serves as a showcase of my work, projects, and experiences in the [Your Field/Industry]. Through this portfolio, I aim to highlight my skills, share my journey, and demonstrate my expertise in [Specific Skills/Technologies].
 
 About Me
 🌟 [Add an interesting fact or achievement]
