@@ -1,7 +1,7 @@
 # kelsi_ghuggins
 
 Kelsi Gilleylen-Huggins's Portfolio   
-                                                                                ![image](https://github.com/kgh002/kelsi_ghuggins/assets/153667190/dfc48694-29be-466b-b834-f8eecbcda6d9)
+                                                                                ![image](https://github.com/kgh002/kelsi_ghuggins/assets/153667190/dfc48694-29be-466b-b834-f8eecbcda6d9 = 250x250)
 Welcome to my portfolio! 👋
 
 
