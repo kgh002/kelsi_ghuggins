@@ -1,9 +1,10 @@
 # kelsi_ghuggins
 
-Kelsi Gilleylen-Huggins's Portfolio     ![image](https://github.com/kgh002/kelsi_ghuggins/assets/153667190/dfc48694-29be-466b-b834-f8eecbcda6d9)
-
-
+Kelsi Gilleylen-Huggins's Portfolio   
+                                                                                ![image](https://github.com/kgh002/kelsi_ghuggins/assets/153667190/dfc48694-29be-466b-b834-f8eecbcda6d9)
 Welcome to my portfolio! 👋
+
+
 
 Introduction
 I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statistical analyst with a Masters in Statistics with 6+ years of experience in Data Analytics, Project Management, Program Management, and Business Intelligence related consulting projects. Skilled in SQL, Python, R, SAS, Tableau, Power BI, and SPSS, with a strong ability to discover business needs and develop effective solutions to drive process efficiency and accuracy. 
