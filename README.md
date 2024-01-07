@@ -1,6 +1,6 @@
 # kelsi_ghuggins
 
-Kelsi Gilleylen-Huggins's Portfolio
+Kelsi Gilleylen-Huggins's Portfolio     IMG_5554.jpg
 
 
 Welcome to my portfolio! 👋
