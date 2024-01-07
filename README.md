@@ -1,6 +1,6 @@
 # kelsi_ghuggins
 
-Kelsi Gilleylen-Huggins's Portfolio   
+**Kelsi Gilleylen-Huggins's Portfolio**   
                                                                                 <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/dfc48694-29be-466b-b834-f8eecbcda6d9" align="right" width=20% height=50%>
 
 
