@@ -49,9 +49,9 @@ Programming Languages: [Languages]
 Technologies & Tools: [Frameworks, Libraries, Tools]
 Design: [Design Software]
 Others: [Any other skills]
-Contact Me
-📧 Email: Kelsi.agilleylen@gmail.com
-🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kelsi-huggins-msphd/)
+<p align="left">Contact Me</p>
+<p align="left">📧 Email: Kelsi.agilleylen@gmail.com</p>
+<p align="left">🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kelsi-huggins-msphd/)</p>
 
 Feel free to explore my projects and reach out to me for collaborations, feedback, or just a friendly chat! 🚀
 
