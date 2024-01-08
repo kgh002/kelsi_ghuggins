@@ -31,6 +31,7 @@ About Me
 Browse through my diverse range of projects, including:
 
 **Project 1- Customer Marketing Campaign**
+Skills: Python
 <p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign.ipynb</p>
 
 Project 3 Name
@@ -47,8 +48,8 @@ Technologies & Tools: [Frameworks, Libraries, Tools]
 Design: [Design Software]
 Others: [Any other skills]
 Contact Me
-📧 Email: [Your Email Address]
-🔗 LinkedIn: Your LinkedIn Profile
-🐦 Twitter: Your Twitter Profile
+📧 Email: Kelsi.agilleylen@gmail.com
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kelsi-huggins-msphd/)
+
 Feel free to explore my projects and reach out to me for collaborations, feedback, or just a friendly chat! 🚀
 
