@@ -34,7 +34,7 @@ Browse through my diverse range of projects, including:
 
 <p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign.ipynb</p>
 <p align="left">Skills: Python</p>
-**Project 2- Data Modeling(Insurance Perdictions)**
+**Project 2- Insurance Perdictions**
 
 
 Blog
