@@ -41,14 +41,18 @@ Browse through my diverse range of projects, including:
 
 
 
-Skills
-My skills include:
+
+**My skills include:**
 
 Programming Languages: [Languages]
+
 Technologies & Tools: [Frameworks, Libraries, Tools]
+
 Design: [Design Software]
+
 Others: [Any other skills]
-<p align="left">Contact Me</p>
+
+**Contact Me**
 
 📧 Email: Kelsi.agilleylen@gmail.com
 
