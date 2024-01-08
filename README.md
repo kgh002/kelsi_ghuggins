@@ -51,7 +51,7 @@ Design: [Design Software]
 Others: [Any other skills]
 Contact Me
 📧 Email: Kelsi.agilleylen@gmail.com
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kelsi-huggins-msphd/)
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kelsi-huggins-msphd/)
 
 Feel free to explore my projects and reach out to me for collaborations, feedback, or just a friendly chat! 🚀
 
