@@ -30,7 +30,7 @@ About Me
 
 Browse through my diverse range of projects, including:
 
-Project 1 Name https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campiagn%20-2.html
+Project 1 Name Customer Marketing Campiagn .ipynb
 
 Project 3 Name
 
