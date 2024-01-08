@@ -30,8 +30,8 @@ About Me
 
 Browse through my diverse range of projects, including:
 
-Project 1 Name
-
+Project 1 Name[
+](https://github.com/kgh002/kelsi_ghuggins/blob/main/Brown%20and%20Light%20Brown%2C%20Circle%20Framed%20Instagram%20Profile%20Picture%20(2).png)
 Project 2 Name
 
 Project 3 Name
