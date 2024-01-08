@@ -39,8 +39,7 @@ Browse through my diverse range of projects, including:
 
 <p align="left">Skills: Python</p>
 
-Blog
-I occasionally write about [Your Topics of Interest] on my blog.
+
 
 Skills
 My skills include:
