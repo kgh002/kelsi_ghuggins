@@ -40,7 +40,7 @@ Browse through my diverse range of projects, including:
 <p align="left">Skills: Python</p>
 
 **Project 3- Analyzing US Fortune500 Landscape**
-<p align="left"> Data Cleaning</p>
+<p align="left"> Data Cleaning https://github.com/kgh002/kelsi_ghuggins/blob/main/fortune500%20Analysis-2.ipynb</p>
 <p align="left"> Dashboard  https://public.tableau.com/shared/G77BZCBQ8?:display_count=n&:origin=viz_share_link</p>
 <p align="left">Skills: Python, Tableau</p>
 
