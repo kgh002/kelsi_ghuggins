@@ -36,11 +36,12 @@ Browse through my diverse range of projects, including:
 <p align="left">Skills: Python, SQL</p>
 
 **Project 2- Insurance Perdictions**
-
+<p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Data%20Modeling%20(Insurance%20Predictions).ipynb</p>
 <p align="left">Skills: Python</p>
 
+**Project 3- Analyzing US Fortune500 Landscape**
 
-
+<p align="left">Skills: Python, Tableau</p>
 
 **My skills include:**
 
