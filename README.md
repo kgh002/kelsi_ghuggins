@@ -32,7 +32,7 @@ Browse through my diverse range of projects, including:
 
 **Project 1- Customer Marketing Campaign**
 
-<p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign.ipynb</p>
+<p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb</p>
 <p align="left">Skills: Python, SQL</p>
 
 **Project 2- Insurance Perdictions**
