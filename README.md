@@ -44,6 +44,10 @@ Browse through my diverse range of projects, including:
 <p align="left"> Dashboard  https://public.tableau.com/shared/G77BZCBQ8?:display_count=n&:origin=viz_share_link</p>
 <p align="left">Skills: Python, Tableau</p>
 
+**Project 4- SBA Loan Default Trends**
+<p align="left"> Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
+<p align="left">Skills: Tableau</p>
+
 **My skills include:**
 
 Programming Languages: [Languages]
