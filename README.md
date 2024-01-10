@@ -18,10 +18,14 @@ I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statisti
 
 </br>
 </br>
-<p align="left"><strong>My skills include<strong></pr>
+</br>
+</br>
+</br>
+</br>
+
+<p align="center"><strong>My skills include<strong></pr>
 </br>
  </br>
-  </br>
 <p align="left">Programming Languages: </pr>
 </br>
  <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/cef557c5-c809-489a-a9c3-0ac8f268f1c2"width=15% height=20%>  
@@ -31,7 +35,6 @@ I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statisti
 
 
 <p align="left"><strong>Technologies & Tools: <strong></p>
-</br>
 <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/685f381f-d6f0-4632-8921-5f95ee392467"width=10% height=20%>
 <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/029a4376-bddf-4fb7-ad83-ef7f51d026ab"width=10% height=20%>
 </br>
