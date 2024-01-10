@@ -2,7 +2,7 @@
 
 
 **Kelsi Gilleylen-Huggins's Portfolio** 
-                                                                   <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/75b28825-8ea6-477c-a181-668a60855d19" align="left" width=40% height=50%>
+<img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/75b28825-8ea6-477c-a181-668a60855d19" align="left" width=40% height=50%>
 
 
                                                                                 
@@ -24,17 +24,22 @@ I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statisti
   </br>
 <p align="left">Programming Languages: </pr>
 </br>
- <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/cef557c5-c809-489a-a9c3-0ac8f268f1c2"width=20% height=20%>  
- <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/36889625-cf48-4c88-b64d-cc09ca51910b"width=20% height=20%>
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/cef557c5-c809-489a-a9c3-0ac8f268f1c2"width=15% height=20%>  
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/36889625-cf48-4c88-b64d-cc09ca51910b"width=15% height=20%>
  <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/1fc6934a-b94d-47d6-bf36-35ba2658b1b6"width=10% height=10%>
- <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/08784288-be8a-4110-8d52-2481f044296a"width=20% height=20%>
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/08784288-be8a-4110-8d52-2481f044296a"width=15% height=20%>
 
 
 <p align="left"><strong>Technologies & Tools: <strong></p>
+</br>
+<img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/685f381f-d6f0-4632-8921-5f95ee392467"width=10% height=20%>
+<img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/029a4376-bddf-4fb7-ad83-ef7f51d026ab"width=10% height=20%>
+</br>
+</br>
 
-
-
-Others: [Program Management, Program Evaluation, Project Management]
+Other Skills:
+</br>
+Program Management, Program Evaluation and Project Management
  </br>
   </br>
     </br>
