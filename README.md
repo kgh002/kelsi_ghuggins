@@ -15,22 +15,40 @@ Introduction
 I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statistical analyst with a Masters in Statistics with 6+ years of experience in Data Analytics, Project Management, Program Management, and Business Intelligence related consulting projects. Skilled in SQL, Python, R, SAS, Tableau, Power BI, and SPSS, with a strong ability to discover business needs and develop effective solutions to drive process efficiency and accuracy. 
 
 
-About Me
 
-🌟 [Add an interesting fact or achievement]
+</br>
+</br>
+<p align="left"><strong>My skills include<strong></pr>
+</br>
+ </br>
+  </br>
+<p align="left">Programming Languages: </pr>
+</br>
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/cef557c5-c809-489a-a9c3-0ac8f268f1c2"width=20% height=20%>  
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/36889625-cf48-4c88-b64d-cc09ca51910b"width=20% height=20%>
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/1fc6934a-b94d-47d6-bf36-35ba2658b1b6"width=10% height=10%>
+ <img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/08784288-be8a-4110-8d52-2481f044296a"width=20% height=20%>
 
-🌱 Currently exploring [Area you're learning/improving in]
 
-💼 [Current job or educational status]
+<p align="left"><strong>Technologies & Tools: <strong></p>
 
-<p align="center">**Portfolio Projects**</p>
+
+
+Others: [Program Management, Program Evaluation, Project Management]
+ </br>
+  </br>
+    </br>
+     </br>
+      </br>
+
+<p align="center"><strong></strong>Portfolio Projects<strong></p>
 
 
 
 
 Browse through my diverse range of projects, including:
 
-**Project 1- Customer Marketing Campaign**
+</u>Project 1- Customer Marketing Campaign</u>
 
 <p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb</p>
 <p align="left">Skills: Python</p>
@@ -48,15 +66,7 @@ Browse through my diverse range of projects, including:
 <p align="left"> Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
 <p align="left">Skills: Tableau</p>
 
-**My skills include:**
 
-Programming Languages: [Languages]
-
-Technologies & Tools: [Frameworks, Libraries, Tools]
-
-Design: [Design Software]
-
-Others: [Any other skills]
 
 **Contact Me**
 
