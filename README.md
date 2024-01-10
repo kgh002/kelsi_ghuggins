@@ -42,7 +42,8 @@ I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statisti
 
 Other Skills:
 </br>
-Program Management, Program Evaluation and Project Management
+<p align="left"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/3ba77c3d-976c-42ab-857a-0ccc64ab937b"width=50% height=20%>
+
  </br>
   </br>
     </br>
