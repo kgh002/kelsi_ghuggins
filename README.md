@@ -50,12 +50,8 @@ Other Skills:
     
 
 <p align="right"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/1eecc340-5471-4429-8a0e-a3f98a0d9bca"width=55% height=20%>
+<p align="left"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/c01b95a3-6bb5-4238-a3d2-868af8a9813d"width=60% height=50%> 
 
-
-
-
-
-Browse through my diverse range of projects, including:
 
 </u>Project 1- Customer Marketing Campaign</u>
 
