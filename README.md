@@ -53,27 +53,28 @@ Other Skills:
 <p align="left"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/c01b95a3-6bb5-4238-a3d2-868af8a9813d"width=60% height=50%> 
 
 
-</u>Project 1- Customer Marketing Campaign</u>
+🚀Project 1- Customer Marketing Campaign
 
 <p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb</p>
 <p align="left">Skills: Python</p>
 
-**Project 2- Insurance Perdictions**
+🚀**Project 2- Insurance Perdictions**
 <p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Data%20Modeling%20(Insurance%20Predictions).ipynb</p>
 <p align="left">Skills: Python</p>
 
-**Project 3- Analyzing US Fortune500 Landscape**
+🚀**Project 3- Analyzing US Fortune500 Landscape**
 <p align="left"> Data Cleaning https://github.com/kgh002/kelsi_ghuggins/blob/main/fortune500%20Analysis-2.ipynb</p>
 <p align="left"> Dashboard  https://public.tableau.com/shared/G77BZCBQ8?:display_count=n&:origin=viz_share_link</p>
 <p align="left">Skills: Python, Tableau</p>
 
-**Project 4- SBA Loan Default Trends**
+🚀**Project 4- SBA Loan Default Trends**
 <p align="left"> Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
 <p align="left">Skills: Tableau</p>
-
-
-
-**Contact Me**
+</br>
+</br>
+</br>
+</br>
+Contact Me
 
 📧 Email: Kelsi.agilleylen@gmail.com
 
