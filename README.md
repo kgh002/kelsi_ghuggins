@@ -53,23 +53,23 @@ Other Skills:
 <p align="left"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/c01b95a3-6bb5-4238-a3d2-868af8a9813d"width=60% height=50%> 
 
 
-🌐Project 1- Customer Marketing Campaign
+🌐Project 1- Customer Marketing Campaign</p>
 
-<p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb</p>
-<p align="left">Skills: Python</p>
-
-🌐**Project 2- Insurance Perdictions**
-<p align="left">https://github.com/kgh002/kelsi_ghuggins/blob/main/Data%20Modeling%20(Insurance%20Predictions).ipynb</p>
- <p align="left">      Skills: Python</p>
-
-🌐**Project 3- Analyzing US Fortune500 Landscape**
-<p align="left"> Data Cleaning https://github.com/kgh002/kelsi_ghuggins/blob/main/fortune500%20Analysis-2.ipynb</p>
-<p align="left"> Dashboard  https://public.tableau.com/shared/G77BZCBQ8?:display_count=n&:origin=viz_share_link</p>
-<p align="left">Skills: Python, Tableau</p>
-
-🌐**Project 4- SBA Loan Default Trends**
-<p align="left"> Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
-<p align="left">Skills: Tableau</p>
+<p align="center">https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb</p>
+ <p align="left">🛠️Skills/Tools: Python</p>
+</br>
+🌐Project 2- Insurance Perdictions
+<p align="center">https://github.com/kgh002/kelsi_ghuggins/blob/main/Data%20Modeling%20(Insurance%20Predictions).ipynb</p>
+ <p align="left">🛠️Skills/Tools:Python</p>
+</br>
+🌐Project 3- Analyzing US Fortune500 Landscape
+<p align="center"> *Data Cleaning https://github.com/kgh002/kelsi_ghuggins/blob/main/fortune500%20Analysis-2.ipynb</p>
+<p align="center"> *Dashboard  https://public.tableau.com/shared/G77BZCBQ8?:display_count=n&:origin=viz_share_link</p>
+ <p align="left">🛠️Skills/Tools: Python, Tableau</p>
+</br>
+🌐Project 4- SBA Loan Default Trends
+<p align="center"> Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
+ <p align="left">🛠️Skills/Tools: Tableau</p>
 </br>
 </br>
 </br>
