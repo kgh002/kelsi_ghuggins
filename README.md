@@ -46,10 +46,10 @@ Program Management, Program Evaluation and Project Management
  </br>
   </br>
     </br>
-     </br>
-      </br>
+    
 
-<p align="center"><strong></strong>Portfolio Projects<strong></p>
+<p align="right"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/1eecc340-5471-4429-8a0e-a3f98a0d9bca"width=55% height=20%>
+
 
 
 
