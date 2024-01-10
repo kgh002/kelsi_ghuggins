@@ -22,6 +22,7 @@ I am Kelsi Gilleylen-Huggins a results-driven and highly motivated data/statisti
 </br>
 </br>
 </br>
+<p align="center"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/67f2870b-6436-436c-833c-48f8af26716a">
 
 <p align="center"><strong>My skills include<strong></pr>
 </br>
@@ -47,10 +48,10 @@ Other Skills:
  </br>
   </br>
     </br>
-    
+  <p align="center"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/67f2870b-6436-436c-833c-48f8af26716a">  
 
 <p align="right"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/1eecc340-5471-4429-8a0e-a3f98a0d9bca"width=55% height=20%>
-<p align="left"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/c01b95a3-6bb5-4238-a3d2-868af8a9813d"width=60% height=50%> 
+
 
 
 🌐Project 1- Customer Marketing Campaign- https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb
@@ -69,8 +70,8 @@ Other Skills:
 </br>
 </br>
 </br>
-</br>
-Contact Me
+<p align="center"><img src="https://github.com/kgh002/kelsi_ghuggins/assets/153667190/67f2870b-6436-436c-833c-48f8af26716a">
+<p align="left">Contact Me</p>
 
 📧 Email: Kelsi.agilleylen@gmail.com
 
