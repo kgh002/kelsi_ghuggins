@@ -54,7 +54,7 @@ Other Skills:
 
 
 
-🌐Project 1- Examining the Impact of Texas State Spending and School District Performance Ratings- https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb
+🌐Project 1- Examining the Impact of Texas State Spending and School District Performance Ratings- https://github.com/kgh002/kelsi_ghuggins/blob/main/Texas%20State%20Spending%20and%20School%20Districts%20Performance%20Rating.ipynb
  <p align="left">🛠️Skills/Tools: Python, SQL</p>
 </br>
 🌐Project 2- Customer Marketing Campaign- https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb
