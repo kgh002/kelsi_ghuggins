@@ -54,18 +54,21 @@ Other Skills:
 
 
 
-🌐Project 1- Customer Marketing Campaign- https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb
+🌐Project 1- Examining the Impact of Texas State Spending and School District Performance Ratings- https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb
+ <p align="left">🛠️Skills/Tools: Python, SQL</p>
+</br>
+🌐Project 2- Customer Marketing Campaign- https://github.com/kgh002/kelsi_ghuggins/blob/main/Customer%20Marketing%20Campaign-2.ipynb
  <p align="left">🛠️Skills/Tools: Python</p>
 </br>
-🌐Project 2- Insurance Perdictions- https://github.com/kgh002/kelsi_ghuggins/blob/main/Data%20Modeling%20(Insurance%20Predictions).ipynb</p>
+🌐Project 3- Insurance Perdictions- https://github.com/kgh002/kelsi_ghuggins/blob/main/Data%20Modeling%20(Insurance%20Predictions).ipynb</p>
  <p align="left">🛠️Skills/Tools:Python</p>
 </br>
-🌐Project 3- Analyzing US Fortune500 Landscape
+🌐Project 4- Analyzing US Fortune 500 Landscape
  <p align="left">*Data Cleaning https://github.com/kgh002/kelsi_ghuggins/blob/main/fortune500%20Analysis-2.ipynb</p>
 *Dashboard  https://public.tableau.com/shared/G77BZCBQ8?:display_count=n&:origin=viz_share_link</p>
  <p align="left">🛠️Skills/Tools: Python, Tableau</p>
 </br>
-🌐Project 4- SBA Loan Default Trends- Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
+🌐Project 5- SBA Loan Default Trends- Dashboard https://public.tableau.com/shared/QNSHGCJ8J?:display_count=n&:origin=viz_share_link</p>
  <p align="left">🛠️Skills/Tools: Tableau</p>
 </br>
 </br>
